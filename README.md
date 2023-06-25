@@ -1,9 +1,10 @@
-# Fresh project
+# Invisible Ink
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+Need to send a one time message to someone? Boy have you found the right place.
+Write a message using the box below and copy the link. Once the link is opened,
+all data will be deleted and it will become inaccessible.
 
-### Usage
+### Self-hosting
 
 Make sure to install Deno: https://deno.land/manual/getting_started/installation
 
